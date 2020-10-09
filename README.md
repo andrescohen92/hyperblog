@@ -6,5 +6,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi
 -Blablablabla
 -Blablablabla
 
-Creado por el increíble team platzi.
-LINUX Y MAX
+- Creado por el Platzi Team.
